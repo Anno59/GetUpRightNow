@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/GetUpRightNow/static/js/main.79bc4f13.chunk.js",
-    "main.js.map": "/GetUpRightNow/static/js/main.79bc4f13.chunk.js.map",
+    "main.js": "/GetUpRightNow/static/js/main.4f4cf6ab.chunk.js",
+    "main.js.map": "/GetUpRightNow/static/js/main.4f4cf6ab.chunk.js.map",
     "runtime~main.js": "/GetUpRightNow/static/js/runtime~main.83163d6e.js",
     "runtime~main.js.map": "/GetUpRightNow/static/js/runtime~main.83163d6e.js.map",
     "static/js/2.c82ea2c6.chunk.js": "/GetUpRightNow/static/js/2.c82ea2c6.chunk.js",
     "static/js/2.c82ea2c6.chunk.js.map": "/GetUpRightNow/static/js/2.c82ea2c6.chunk.js.map",
     "index.html": "/GetUpRightNow/index.html",
-    "precache-manifest.421604b04bdfc19eb2bebb3066443a00.js": "/GetUpRightNow/precache-manifest.421604b04bdfc19eb2bebb3066443a00.js",
+    "precache-manifest.4a5cae357e9192254aec68719e0cb583.js": "/GetUpRightNow/precache-manifest.4a5cae357e9192254aec68719e0cb583.js",
     "service-worker.js": "/GetUpRightNow/service-worker.js"
   }
 }
