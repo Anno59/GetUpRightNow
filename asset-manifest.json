@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/GetUpRightNow/static/js/main.4f4cf6ab.chunk.js",
-    "main.js.map": "/GetUpRightNow/static/js/main.4f4cf6ab.chunk.js.map",
+    "main.js": "/GetUpRightNow/static/js/main.2e423f5c.chunk.js",
+    "main.js.map": "/GetUpRightNow/static/js/main.2e423f5c.chunk.js.map",
     "runtime~main.js": "/GetUpRightNow/static/js/runtime~main.83163d6e.js",
     "runtime~main.js.map": "/GetUpRightNow/static/js/runtime~main.83163d6e.js.map",
     "static/js/2.c82ea2c6.chunk.js": "/GetUpRightNow/static/js/2.c82ea2c6.chunk.js",
     "static/js/2.c82ea2c6.chunk.js.map": "/GetUpRightNow/static/js/2.c82ea2c6.chunk.js.map",
     "index.html": "/GetUpRightNow/index.html",
-    "precache-manifest.d8b9ce59b7af70f1bd1215b22383f327.js": "/GetUpRightNow/precache-manifest.d8b9ce59b7af70f1bd1215b22383f327.js",
+    "precache-manifest.d72e781a7d313967475172e5228cf536.js": "/GetUpRightNow/precache-manifest.d72e781a7d313967475172e5228cf536.js",
     "service-worker.js": "/GetUpRightNow/service-worker.js"
   }
 }
