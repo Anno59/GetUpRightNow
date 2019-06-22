@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/getuprightnow/static/js/main.79bc4f13.chunk.js",
+    "main.js.map": "/getuprightnow/static/js/main.79bc4f13.chunk.js.map",
+    "runtime~main.js": "/getuprightnow/static/js/runtime~main.b215c864.js",
+    "runtime~main.js.map": "/getuprightnow/static/js/runtime~main.b215c864.js.map",
+    "static/js/2.c82ea2c6.chunk.js": "/getuprightnow/static/js/2.c82ea2c6.chunk.js",
+    "static/js/2.c82ea2c6.chunk.js.map": "/getuprightnow/static/js/2.c82ea2c6.chunk.js.map",
+    "index.html": "/getuprightnow/index.html",
+    "precache-manifest.98d996477280c718437e3b9b4c3d4d6c.js": "/getuprightnow/precache-manifest.98d996477280c718437e3b9b4c3d4d6c.js",
+    "service-worker.js": "/getuprightnow/service-worker.js"
+  }
+}
