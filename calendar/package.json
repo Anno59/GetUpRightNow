@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://anno59.github.io/getuprightnow",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "echarts": "^3.8.5",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
